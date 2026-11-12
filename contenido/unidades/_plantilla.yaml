@@ -1,0 +1,85 @@
+# Plantilla de unidad. Copiar como u<N>-<edad>anos.yaml (p. ej. u1-3anos.yaml).
+# Reglas en CLAUDE.md. Contenido para los niños en inglés británico.
+
+id: u1-3anos
+curso: 3                    # 3, 4 o 5 (años)
+unidad: 1                   # 1-8
+trimestre: 1
+titulo: Hello, school!
+personaje: Pip
+
+vocabulario:                # 3 años: 4-6 · 4 años: 6-8 · 5 años: 8-10 palabras nuevas
+  - palabra: teddy
+    imagen: img/u1/teddy.webp
+    audio: audio/u1/teddy.opus
+    gesto: abrazarse        # gesto fijo, el mismo en todas las aulas
+
+recicla: []                 # palabras de unidades o cursos anteriores que se reutilizan
+
+chunks:
+  - "Hello!"
+  - "What's your name?"
+
+criterios: ["3.8", "5.2"]   # solo 1.3, 2.3, 3.8, 5.2, 5.4
+
+cuento:
+  titulo: ""
+  version_corta: true       # en 3 años, versión corta desde la sesión 1
+  paginas:
+    - imagen: img/u1/cuento-01.webp
+      texto: ""
+      audio: audio/u1/cuento-01.opus
+
+chant:
+  titulo: ""
+  letra: |
+    ...
+  gestos: ""
+  audio: audio/u1/chant.opus
+
+audio_diario: audio/u1/diario.opus   # 5-10 min con cuento y chant (aula y casa)
+
+sesiones:                   # 10 sesiones: 1-3 Encounter · 4-7 Engage · 8-10 Exploit
+  - n: 1
+    fase: Encounter
+    bloques:                # los minutos suman 45; en 3 años ningún bloque > 8 min,
+                            # así que la sesión de 3 años lleva un bloque más (7 en vez de 6)
+      - tipo: entrada       # entrada · warm-up · story · juego · movimiento · salida
+        minutos: 5
+        adultos: 1
+        descripcion: ""
+      - tipo: warm-up
+        minutos: 5
+        adultos: 1
+        descripcion: ""
+      - tipo: story
+        minutos: 8
+        adultos: 1
+        descripcion: ""
+      - tipo: movimiento    # pausa de movimiento entre story y juego (3 años)
+        minutos: 6
+        adultos: 1
+        descripcion: ""
+      - tipo: juego
+        juego: Listen and do  # del banco fijo de juegos
+        minutos: 8
+        adultos: 1
+        descripcion: ""
+      - tipo: movimiento
+        minutos: 8
+        adultos: 1
+        descripcion: ""
+      - tipo: salida
+        minutos: 5
+        adultos: 1
+        descripcion: ""
+    con_auxiliar: ""        # qué cambia si hay auxiliar (opcional; nada imprescindible depende de él)
+    materiales: []
+
+rincon:                     # caja del rincón de inglés, desde la sesión 2
+  - cuento pequeño
+  - flashcards dobles
+
+para_casa:
+  descripcion: ""           # sin exigir saber inglés
+  dibujo: img/u1/casa.webp

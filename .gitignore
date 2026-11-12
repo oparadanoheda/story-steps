@@ -1,0 +1,23 @@
+# Dependencias y builds
+node_modules/
+dist/
+.astro/
+_site/
+
+# Originales pesados (fuera del repositorio)
+originales/
+*.wav
+*.aiff
+*.psd
+*.mp4
+*.mov
+
+# Entorno
+.env
+.env.*
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*

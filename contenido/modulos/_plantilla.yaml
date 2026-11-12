@@ -1,0 +1,32 @@
+# Plantilla de módulo de proyecto. Copiar como <proyecto>-<edad>anos.yaml (p. ej. prehistoria-3anos.yaml).
+# Regla de oro: recicla la lengua del núcleo y añade poca nueva.
+
+id: prehistoria-3anos
+proyecto: Prehistoria y dinosaurios
+curso: 3
+sesiones_previstas: 3       # 3 años: 3 · 4 y 5 años: 3-4
+
+recicla: [u3, u6]           # unidades del núcleo cuya lengua se reutiliza
+
+vocabulario:                # 3 años: 3-4 · 4 años: 4-6 · 5 años: 6-8
+  - palabra: dinosaur
+    imagen: img/prehistoria/dinosaur.webp
+    audio: audio/prehistoria/dinosaur.opus
+    gesto: ""
+
+estructura_clave: "Big dinosaur / small dinosaur"   # una sola, ya vista en el núcleo si es posible
+
+chant:
+  letra: |
+    ...
+  gestos: ""
+  audio: audio/prehistoria/chant-3anos.opus
+
+cuento:
+  titulo: ""
+  descripcion: ""           # corto y repetitivo, contado con imágenes u objetos
+
+juego: ""                   # comprensión (3 años) o producción (4-5 años)
+tarea_manipulativa: ""      # conectada con lo que hace el aula en el proyecto
+para_casa: ""               # sin exigir saber inglés
+criterios: ["2.3", "1.3"]   # solo 1.3, 2.3, 3.8, 5.2, 5.4
