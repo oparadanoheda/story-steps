@@ -1,6 +1,6 @@
 # Marco curricular: inglés en Infantil (Comunidad de Madrid)
 
-Oct 24, 2026 · @Óscar Parada
+Oct 24, 2026 · @Óscar Parada · Revisado el 12/11/2026 (ver `docs/08 Revisión y propuestas.md`)
 
 ## Resumen
 
@@ -116,12 +116,14 @@ El Decreto no fija vocabulario, temas ni estructuras concretas: la selección l�
 
 ## Implicaciones para un método sin libros
 
-**Alcance del método:** solo el bloque J (la "asignatura" de inglés con el especialista), no las áreas impartidas en inglés. El centro da **3 sesiones de 45 min por semana (2 h 15 min)** en 3, 4 y 5 años, por encima del mínimo de 1,5 h en 2 sesiones. Con unos 175 días lectivos (≈ 35 semanas), son unas 105 sesiones por curso y unas 315 en el ciclo.
+**Alcance del método:** solo el bloque J (la "asignatura" de inglés con el especialista), no las áreas impartidas en inglés. El centro da **3 sesiones de 45 min por semana (2 h 15 min)** en 3, 4 y 5 años, por encima del mínimo de 1,5 h en 2 sesiones. El horario da unas 108 sesiones por curso; descontando excursiones, fiestas del centro, periodo de adaptación, jornada reducida y ausencias, el método se planifica sobre **90 sesiones útiles** por curso (unas 270 en el ciclo). El calendario escolar tiene un mínimo de 175 días lectivos (art. 18).
 
-- **Encaje legal:** un método sin libro de texto es compatible con la norma; el centro decide los recursos (art. 17.5) y debe justificar sus criterios en la propuesta pedagógica (art. 14.2.d).
+- **Encaje legal:** un método sin libro de texto es compatible con la norma; el centro decide los recursos (art. 17.5 del Decreto y art. 22.2 de la Orden 460/2023) y debe justificar sus criterios en la propuesta pedagógica (art. 14.2.d).
+- **Encaje formal en el centro:** sustituir el material actual por un método propio es una decisión de ciclo y de claustro, no solo del especialista. Pasos: presentación al equipo de ciclo y a la CCP, acuerdo de claustro, mención en la PGA, incorporación a la propuesta pedagógica y carta a las familias antes del piloto.
+- **Resto del programa bilingüe:** el bloque J cubre 2 h 15 min de las 4, 5 y 6 horas semanales de exposición que exige el programa. El método debe coordinarse con quien imparta el resto (ver *Método de inglés sin libros: núcleo y módulos*, "Encaje con las áreas en inglés").
 - **Oral primero:** el bloque J no incluye lectura ni escritura en inglés y el bloque D no puede darse en inglés; el método debe basarse en escucha, habla, canciones, rimas, cuentos y rutinas.
 - **Referente curricular cerrado:** los cuatro contenidos del bloque J y los cinco criterios de lengua extranjera del área III; la gradación por cursos la fija el método.
-- **Evaluación:** esos cinco criterios, por observación; conviene un registro sencillo por niño, alineado con el Informe Final de Aprendizaje.
+- **Evaluación:** esos cinco criterios, por observación; conviene un registro sencillo por niño, alineado con el Informe Final de Aprendizaje. El informe lo completa el tutor (art. 16.4); el registro del especialista es una aportación, no un informe paralelo.
 - **Contexto socioeconómico medio-bajo:** el art. 17.8 obliga a trabajar con las familias; el método debería prever materiales para casa que no exijan saber inglés.
 
 **Preguntas abiertas para el siguiente paso**
@@ -133,5 +135,6 @@ El Decreto no fija vocabulario, temas ni estructuras concretas: la selección l�
 ## Fuentes
 
 - [Decreto 36/2022, de 8 de junio (BOCM n.º 136, 9/6/2022)](https://www.comunidad.madrid/transparencia/sites/default/files/5-decreto_educ_infantil-bocm.pdf)
+- [Orden 460/2023, de 17 de febrero (BOCM n.º 50, 28/2/2023)](https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/28/BOCM-20230228-30.PDF)
 - [Instrucciones DG Bilingüismo y Calidad de la Enseñanza, curso 2026-2027](https://documentos.anpemadrid.es/docs/pdf/Instrucciones_centros_bilingues_2026-2027.pdf)
 - [Instrucciones DG Bilingüismo y Calidad de la Enseñanza, curso 2025-2026](https://documentos.anpemadrid.es/docs/instrucciones_bilinguismo_25-26.pdf)

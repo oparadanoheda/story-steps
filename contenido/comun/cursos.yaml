@@ -1,0 +1,69 @@
+# Datos por curso: todo lo que depende de la edad vive aquí y solo aquí.
+# Fuente: docs/06 (progresión y sesión) y docs/07 (voz y estilo).
+
+ratio_maxima: 20              # niños por aula
+
+cursos:
+  "3":
+    personaje: Pip            # zorrito naranja, tímido y cariñoso
+    color: naranja
+    tope_bloque: 8            # minutos de actividad continua
+    vocabulario_nuclear: [4, 6]
+    vocabulario_modulo: [3, 4]
+    estructuras: {dicen: 0, entienden: 1}
+    numeros: [1, 5]
+    parejas: false
+    voz_personaje: ana
+
+  "4":
+    personaje: null           # pendiente (propuesta: Kiko, koala)
+    color: verde
+    tope_bloque: 10
+    vocabulario_nuclear: [6, 8]
+    vocabulario_modulo: [4, 6]
+    estructuras: {dicen: 1, entienden: 1}
+    numeros: [1, 10]
+    parejas: false
+    voz_personaje: null       # pendiente
+
+  "5":
+    personaje: null           # pendiente (propuesta: Ollie, lechuza)
+    color: morado
+    tope_bloque: 12
+    vocabulario_nuclear: [6, 8]
+    vocabulario_modulo: [6, 8]
+    estructuras: {dicen: 1, entienden: 1}
+    numeros: [1, 20]
+    parejas: true
+    voz_personaje: null       # pendiente
+
+# Voces. Se generan con la API de Venice; los modelos caducan, así que cada tanda guarda su manifiesto.
+voces:
+  narrador:                   # común a los tres cursos; dice también las palabras sueltas
+    nombre: Verity X
+    proveedor: elevenlabs
+    voz_id: 1hlpeD1ydbI2ow0Tt3EW      # voz de biblioteca: su autor puede retirarla
+    modelo_usado: elevenlabs-tts-v4   # el de la prueba del 12/11/2026
+  ana:
+    nombre: Ana
+    proveedor: elevenlabs
+    voz_id: rCmVtv8cYU60uhlsOo1M      # voz de biblioteca
+    modelo_usado: elevenlabs-tts-v4
+  reserva: [Lily, George]     # voces de serie de ElevenLabs, por si se retira una de biblioteca
+
+# Ritmo de la voz. Se aplica en producción, frase a frase. Pendiente de decidir por curso.
+ritmo:
+  "3": {pausa_entre_frases_s: null, velocidad: null}
+  "4": {pausa_entre_frases_s: null, velocidad: null}
+  "5": {pausa_entre_frases_s: null, velocidad: null}
+
+criterios_admitidos: ["1.3", "2.3", "3.8", "5.2", "5.4"]
+
+calendario:
+  sesiones_utiles: 90         # 80 de núcleo y 10 de festividades
+  sesiones_por_unidad: 10
+  fases:
+    Encounter: [1, 2, 3]
+    Engage: [4, 5, 6, 7]
+    Exploit: [8, 9, 10]
+  sesiones_con_observacion: [8, 9, 10]

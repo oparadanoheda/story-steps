@@ -12,6 +12,9 @@ originales/
 *.mp4
 *.mov
 
+# Pruebas de producción de voz e imagen (no se publican)
+pruebas/
+
 # Entorno
 .env
 .env.*

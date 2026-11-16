@@ -1,6 +1,6 @@
 # Atención a la diversidad y gestión de conducta en las sesiones de inglés
 
-Oct 24, 2026 · @Óscar Parada
+Oct 24, 2026 · @Óscar Parada · Revisado el 12/11/2026 (ver `docs/08 Revisión y propuestas.md`)
 
 ## Conclusión: diez principios para que la diversidad no rompa el método
 
@@ -32,7 +32,7 @@ El [Decreto 23/2023](https://formacion.educa.madrid.org/pluginfile.php/256609/mo
 | Decreto 23/2023, arts. 9-10 | Necesidades específicas, entre ellas NEE (incluidos TEA, trastornos del lenguaje y trastornos graves de conducta), retraso madurativo, trastorno de atención, desconocimiento grave de la lengua y altas capacidades | Coordinarse con PT, AL y EOEP en los casos con informe |
 | Decreto 23/2023, art. 19.3 | Servicio de traducción e interpretación para familias que desconocen el español | Usarlo para explicar el método a familias recién llegadas |
 | Decreto 23/2023, arts. 32-35 | Plan Incluyo del centro; el profesorado aplica sus medidas en su práctica | Las medidas del método deben encajar en el Plan Incluyo |
-| [Orden 460/2023](https://ecmadrid.org/es/pdfs-revistas/doc_download/8337-orden-460-2023-de-17-febrero-organizacion-funcionamiento-evaluacion-y-autonomia-pedagogica-infantil), arts. 10-12 | En Infantil: medidas ordinarias registradas por el tutor; adaptaciones significativas y no significativas para NEE | El especialista aporta sus observaciones al registro del tutor |
+| [Orden 460/2023](https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/28/BOCM-20230228-30.PDF), arts. 10-12 | En Infantil: medidas ordinarias registradas por el tutor; adaptaciones significativas y no significativas para NEE | El especialista aporta sus observaciones al registro del tutor |
 | Decreto 36/2022, art. 15.4 | Flexibilizar metodologías en lengua extranjera para quien tenga dificultades de comprensión o expresión | Varias vías de comprensión y de respuesta |
 
 Las Instrucciones de bilingüismo 2026-27 piden que los apoyos se den en inglés salvo casos justificados por el equipo docente; en momentos de conflicto emocional, que el niño entienda es la justificación más clara.
@@ -54,7 +54,7 @@ Las pautas DUA de [CAST](https://www.education.ky.gov/specialed/excep/GuidanceRe
 3. *What's this?* (decir la palabra)
 4. *Tell me about the cat.* (frase: *It's a big cat.*)
 
-**Agrupamientos.** Gran grupo para el cuento y las rutinas; parejas o tríos mixtos para los juegos, con un niño más seguro que haga de modelo; rotación de roles para que todos dirijan alguna vez.
+**Agrupamientos.** Gran grupo para el cuento, las rutinas y los juegos, con respuesta simultánea: todos responden a la vez y nadie espera turno. Rotación de roles para que todos dirijan alguna vez. Las parejas mixtas, con un niño más seguro que haga de modelo, se reservan para 5 años; los subgrupos, para las sesiones con un segundo adulto.
 
 ## Ajustes por perfil
 
@@ -85,7 +85,7 @@ Los dos marcos con más evidencia coinciden en que la mayoría de la conducta di
 
 - **Normas visuales:** las mismas 3 normas en todas las aulas (*Look, Listen, Kind hands*), con pictograma y gesto, practicadas como un juego en las primeras sesiones.
 - **Señal de atención en inglés** con respuesta a coro (por ejemplo, *One, two, three, eyes on me!* / *One, two, eyes on you!*).
-- **Ritmo de la sesión:** se alternan actividades quietas y de movimiento cada 5-8 minutos y los materiales están preparados antes de entrar.
+- **Ritmo de la sesión:** se alternan actividades quietas y de movimiento, con un tope de actividad continua de 8 minutos en 3 años, 10 en 4 y 12 en 5. Todo el material cabe en una bolsa y se prepara en menos de un minuto.
 - **Roles semanales** (*helper*, *puppet keeper*) para los niños que más lo necesitan.
 - **Coordinación con el tutor:** se conocen y se aplican las mismas consecuencias y el mismo rincón de calma; un mensaje breve después de cada sesión difícil.
 
@@ -108,7 +108,7 @@ Se sube un escalón solo si el anterior no ha funcionado, y en todos el objetivo
 ## Fuentes
 
 - [Decreto 23/2023, de 22 de marzo, atención educativa a las diferencias individuales del alumnado (Comunidad de Madrid)](https://formacion.educa.madrid.org/pluginfile.php/256609/mod_resource/content/1/Decreto%2023-2023-pdf.pdf)
-- [Orden 460/2023, de 17 de febrero, Educación Infantil (Comunidad de Madrid)](https://ecmadrid.org/es/pdfs-revistas/doc_download/8337-orden-460-2023-de-17-febrero-organizacion-funcionamiento-evaluacion-y-autonomia-pedagogica-infantil)
+- [Orden 460/2023, de 17 de febrero, Educación Infantil (Comunidad de Madrid)](https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/28/BOCM-20230228-30.PDF)
 - [Education Endowment Foundation (2019). Improving Behaviour in Schools](https://www.nottinghamshire.gov.uk/media/2322806/improvingbehaviourinschoolsguidance.pdf)
 - [National Center for Pyramid Model Innovations: investigación](https://www.challengingbehavior.org/pyramid-model/research/)
 - [Vender, Vernice y Sorace (2021). Supporting Bilingualism in Vulnerable Populations. Sustainability 13](https://iris.univr.it/bitstream/11562/1053716/1/Vender%20Vernice%20Sorace%20%282021%29%20Supporting%20bilingualism%20in%20vulnerable%20populations.pdf)

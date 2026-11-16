@@ -1,0 +1,85 @@
+# Arquetipos de sesión. Las 240 sesiones del núcleo no se escriben desde cero: cada una parte
+# del arquetipo de su número y su edad, y la unidad añade su cuento, su juego y sus palabras.
+# Reglas (CLAUDE.md): los minutos suman 45; tope de actividad continua por edad (8, 10 y 12);
+# nunca más de un tope seguido de la misma energía; exactamente un bloque recortable;
+# entrada, cuento y salida nunca son recortables.
+# Al omitir el bloque recortable quedan juntos dos bloques de la misma energía: se separan con
+# una pausa de un minuto de la energía contraria. La alternancia se valida sobre la sesión completa.
+# Estado: están la sesión tipo de cada edad y un arquetipo de ejemplo. Faltan los 30 arquetipos
+# (10 por edad); los de 3 años se escriben para el piloto.
+
+# Esqueleto de la sesión según la energía del juego elegido.
+sesion_tipo:
+  "3":
+    juego_movimiento:
+      - {tipo: entrada, energia: quieto, minutos: 5}
+      - {tipo: warm-up, energia: movimiento, minutos: 5}
+      - {tipo: story, energia: quieto, minutos: 8}
+      - {tipo: juego, energia: movimiento, minutos: 8}
+      - {tipo: manipulacion, energia: quieto, minutos: 6, recortable: true}
+      - {tipo: movimiento, energia: movimiento, minutos: 8}
+      - {tipo: salida, energia: quieto, minutos: 5}
+    juego_quieto:
+      - {tipo: entrada, energia: quieto, minutos: 5}
+      - {tipo: warm-up, energia: movimiento, minutos: 5}
+      - {tipo: story, energia: quieto, minutos: 8}
+      - {tipo: movimiento, energia: movimiento, minutos: 6, recortable: true}
+      - {tipo: juego, energia: quieto, minutos: 8}
+      - {tipo: movimiento, energia: movimiento, minutos: 8}
+      - {tipo: salida, energia: quieto, minutos: 5}
+  "4": &sesion_4_5
+    juego_movimiento:
+      - {tipo: entrada, energia: quieto, minutos: 5}
+      - {tipo: warm-up, energia: movimiento, minutos: 5}
+      - {tipo: story, energia: quieto, minutos: 10}
+      - {tipo: juego, energia: movimiento, minutos: 10}
+      - {tipo: manipulacion, energia: quieto, minutos: 5, recortable: true}
+      - {tipo: movimiento, energia: movimiento, minutos: 5}
+      - {tipo: salida, energia: quieto, minutos: 5}
+    juego_quieto:
+      - {tipo: entrada, energia: quieto, minutos: 5}
+      - {tipo: warm-up, energia: movimiento, minutos: 5}
+      - {tipo: story, energia: quieto, minutos: 10}
+      - {tipo: movimiento, energia: movimiento, minutos: 5, recortable: true}
+      - {tipo: juego, energia: quieto, minutos: 10}
+      - {tipo: movimiento, energia: movimiento, minutos: 5}
+      - {tipo: salida, energia: quieto, minutos: 5}
+  "5": *sesion_4_5            # misma sesión tipo; el tope sube a 12 minutos
+
+arquetipos:
+  - id: encounter-1
+    curso: 3
+    sesion: 1
+    fase: Encounter
+    estado: borrador
+    proposito: Primer encuentro con el cuento y con dos o tres palabras de la unidad.
+    bloques:
+      - tipo: entrada
+        energia: quieto
+        minutos: 5
+        descripcion: Llega la marioneta, canción de saludo y agenda visual. Un elemento de rutina.
+      - tipo: warm-up
+        energia: movimiento
+        minutos: 5
+        descripcion: El docente presenta el chant de la unidad con sus gestos; los niños imitan.
+      - tipo: story
+        energia: quieto
+        minutos: 8
+        descripcion: Cuento en versión corta, con la marioneta y objetos reales. Los niños miran y hacen un gesto.
+      - tipo: juego
+        energia: movimiento
+        minutos: 8
+        descripcion: Juego de movimiento con las palabras de la sesión. Respuesta física, todos a la vez.
+      - tipo: manipulacion
+        energia: quieto
+        minutos: 6
+        recortable: true
+        descripcion: Tocar y pasar los objetos o tarjetas del cuento mientras el docente los nombra.
+      - tipo: movimiento
+        energia: movimiento
+        minutos: 8
+        descripcion: Repetir el chant con gestos y un juego de TPR con las órdenes de aula.
+      - tipo: salida
+        energia: quieto
+        minutos: 5
+        descripcion: Repaso rápido con la marioneta, canción de despedida y ritual de salida.

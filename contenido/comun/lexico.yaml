@@ -1,0 +1,215 @@
+# Léxico único del método. Cada palabra se define UNA vez aquí y las unidades la citan por su id.
+# Imagen y audio van por convención en medios/lexico/<id>.webp y medios/lexico/<id>.mp3.
+# El gesto es el mismo en todas las aulas y en las tres edades. Vacío = pendiente de decidir con el equipo.
+# Aquí están las 159 palabras nucleares del mapa del núcleo (docs/06), ordenadas por la unidad
+# en la que son nucleares. Faltan las palabras de rutina (números, días) y las de módulos y festividades.
+# Inglés británico. Una palabra no puede aparecer dos veces.
+
+palabras:
+
+  # u1-3 · Hello, school!
+  - {id: "hello", palabra: "hello", gesto: ""}
+  - {id: "goodbye", palabra: "goodbye", gesto: ""}
+  - {id: "sit-down", palabra: "sit down", gesto: ""}
+  - {id: "stand-up", palabra: "stand up", gesto: ""}
+  - {id: "listen", palabra: "listen", gesto: ""}
+  - {id: "quiet", palabra: "quiet", gesto: ""}
+
+  # u2-3 · My body & feelings
+  - {id: "head", palabra: "head", gesto: ""}
+  - {id: "hands", palabra: "hands", gesto: ""}
+  - {id: "feet", palabra: "feet", gesto: ""}
+  - {id: "eyes", palabra: "eyes", gesto: ""}
+  - {id: "nose", palabra: "nose", gesto: ""}
+  - {id: "mouth", palabra: "mouth", gesto: ""}
+
+  # u3-3 · Colours & toys
+  - {id: "red", palabra: "red", gesto: ""}
+  - {id: "blue", palabra: "blue", gesto: ""}
+  - {id: "yellow", palabra: "yellow", gesto: ""}
+  - {id: "green", palabra: "green", gesto: ""}
+  - {id: "ball", palabra: "ball", gesto: ""}
+  - {id: "teddy", palabra: "teddy", gesto: ""}
+
+  # u4-3 · My family & home
+  - {id: "mummy", palabra: "mummy", gesto: ""}
+  - {id: "daddy", palabra: "daddy", gesto: ""}
+  - {id: "baby", palabra: "baby", gesto: ""}
+  - {id: "brother", palabra: "brother", gesto: ""}
+  - {id: "sister", palabra: "sister", gesto: ""}
+  - {id: "house", palabra: "house", gesto: ""}
+
+  # u5-3 · Food
+  - {id: "apple", palabra: "apple", gesto: ""}
+  - {id: "banana", palabra: "banana", gesto: ""}
+  - {id: "milk", palabra: "milk", gesto: ""}
+  - {id: "water", palabra: "water", gesto: ""}
+  - {id: "bread", palabra: "bread", gesto: ""}
+
+  # u6-3 · Animals
+  - {id: "cat", palabra: "cat", gesto: ""}
+  - {id: "dog", palabra: "dog", gesto: ""}
+  - {id: "fish", palabra: "fish", gesto: ""}
+  - {id: "bird", palabra: "bird", gesto: ""}
+  - {id: "duck", palabra: "duck", gesto: ""}
+  - {id: "cow", palabra: "cow", gesto: ""}
+
+  # u7-3 · Clothes & weather
+  - {id: "coat", palabra: "coat", gesto: ""}
+  - {id: "hat", palabra: "hat", gesto: ""}
+  - {id: "shoes", palabra: "shoes", gesto: ""}
+  - {id: "t-shirt", palabra: "T-shirt", gesto: ""}
+  - {id: "cold", palabra: "cold", gesto: ""}
+  - {id: "hot", palabra: "hot", gesto: ""}
+
+  # u8-3 · Let's go!
+  - {id: "bus", palabra: "bus", gesto: ""}
+  - {id: "train", palabra: "train", gesto: ""}
+  - {id: "plane", palabra: "plane", gesto: ""}
+  - {id: "boat", palabra: "boat", gesto: ""}
+  - {id: "sea", palabra: "sea", gesto: ""}
+  - {id: "beach", palabra: "beach", gesto: ""}
+
+  # u1-4 · Hello, school!
+  - {id: "pencil", palabra: "pencil", gesto: ""}
+  - {id: "crayon", palabra: "crayon", gesto: ""}
+  - {id: "chair", palabra: "chair", gesto: ""}
+  - {id: "table", palabra: "table", gesto: ""}
+  - {id: "book", palabra: "book", gesto: ""}
+  - {id: "bag", palabra: "bag", gesto: ""}
+
+  # u2-4 · My body & feelings
+  - {id: "arms", palabra: "arms", gesto: ""}
+  - {id: "legs", palabra: "legs", gesto: ""}
+  - {id: "ears", palabra: "ears", gesto: ""}
+  - {id: "hair", palabra: "hair", gesto: ""}
+  - {id: "happy", palabra: "happy", gesto: ""}
+  - {id: "sad", palabra: "sad", gesto: ""}
+  - {id: "angry", palabra: "angry", gesto: ""}
+  - {id: "tired", palabra: "tired", gesto: ""}
+
+  # u3-4 · Colours & toys
+  - {id: "orange", palabra: "orange", gesto: ""}
+  - {id: "pink", palabra: "pink", gesto: ""}
+  - {id: "purple", palabra: "purple", gesto: ""}
+  - {id: "black", palabra: "black", gesto: ""}
+  - {id: "white", palabra: "white", gesto: ""}
+  - {id: "car", palabra: "car", gesto: ""}
+  - {id: "doll", palabra: "doll", gesto: ""}
+  - {id: "kite", palabra: "kite", gesto: ""}
+
+  # u4-4 · My family & home
+  - {id: "grandma", palabra: "grandma", gesto: ""}
+  - {id: "grandpa", palabra: "grandpa", gesto: ""}
+  - {id: "kitchen", palabra: "kitchen", gesto: ""}
+  - {id: "bedroom", palabra: "bedroom", gesto: ""}
+  - {id: "bathroom", palabra: "bathroom", gesto: ""}
+  - {id: "bed", palabra: "bed", gesto: ""}
+
+  # u5-4 · Food
+  - {id: "cheese", palabra: "cheese", gesto: ""}
+  - {id: "egg", palabra: "egg", gesto: ""}
+  - {id: "juice", palabra: "juice", gesto: ""}
+  - {id: "carrot", palabra: "carrot", gesto: ""}
+  - {id: "biscuit", palabra: "biscuit", gesto: ""}
+  - {id: "hungry", palabra: "hungry", gesto: ""}
+  - {id: "thirsty", palabra: "thirsty", gesto: ""}
+
+  # u6-4 · Animals
+  - {id: "pig", palabra: "pig", gesto: ""}
+  - {id: "horse", palabra: "horse", gesto: ""}
+  - {id: "sheep", palabra: "sheep", gesto: ""}
+  - {id: "lion", palabra: "lion", gesto: ""}
+  - {id: "elephant", palabra: "elephant", gesto: ""}
+  - {id: "monkey", palabra: "monkey", gesto: ""}
+  - {id: "big", palabra: "big", gesto: ""}
+  - {id: "small", palabra: "small", gesto: ""}
+
+  # u7-4 · Clothes & weather
+  - {id: "trousers", palabra: "trousers", gesto: ""}
+  - {id: "dress", palabra: "dress", gesto: ""}
+  - {id: "socks", palabra: "socks", gesto: ""}
+  - {id: "jumper", palabra: "jumper", gesto: ""}
+  - {id: "sunny", palabra: "sunny", gesto: ""}
+  - {id: "rainy", palabra: "rainy", gesto: ""}
+  - {id: "windy", palabra: "windy", gesto: ""}
+  - {id: "cloudy", palabra: "cloudy", gesto: ""}
+
+  # u8-4 · Let's go!
+  - {id: "bike", palabra: "bike", gesto: ""}
+  - {id: "helicopter", palabra: "helicopter", gesto: ""}
+  - {id: "park", palabra: "park", gesto: ""}
+  - {id: "ice-cream", palabra: "ice cream", gesto: ""}
+  - {id: "sandcastle", palabra: "sandcastle", gesto: ""}
+  - {id: "sun", palabra: "sun", gesto: ""}
+
+  # u1-5 · Hello, school!
+  - {id: "rubber", palabra: "rubber", gesto: ""}
+  - {id: "scissors", palabra: "scissors", gesto: ""}
+  - {id: "glue", palabra: "glue", gesto: ""}
+  - {id: "door", palabra: "door", gesto: ""}
+  - {id: "window", palabra: "window", gesto: ""}
+  - {id: "teacher", palabra: "teacher", gesto: ""}
+
+  # u2-5 · My body & feelings
+  - {id: "knees", palabra: "knees", gesto: ""}
+  - {id: "shoulders", palabra: "shoulders", gesto: ""}
+  - {id: "fingers", palabra: "fingers", gesto: ""}
+  - {id: "teeth", palabra: "teeth", gesto: ""}
+  - {id: "scared", palabra: "scared", gesto: ""}
+  - {id: "surprised", palabra: "surprised", gesto: ""}
+
+  # u3-5 · Colours & toys
+  - {id: "brown", palabra: "brown", gesto: ""}
+  - {id: "circle", palabra: "circle", gesto: ""}
+  - {id: "square", palabra: "square", gesto: ""}
+  - {id: "triangle", palabra: "triangle", gesto: ""}
+  - {id: "rectangle", palabra: "rectangle", gesto: ""}
+  - {id: "robot", palabra: "robot", gesto: ""}
+  - {id: "scooter", palabra: "scooter", gesto: ""}
+  - {id: "drum", palabra: "drum", gesto: ""}
+
+  # u4-5 · My family & home
+  - {id: "living-room", palabra: "living room", gesto: ""}
+  - {id: "garden", palabra: "garden", gesto: ""}
+  - {id: "sofa", palabra: "sofa", gesto: ""}
+  - {id: "in", palabra: "in", gesto: ""}
+  - {id: "on", palabra: "on", gesto: ""}
+  - {id: "under", palabra: "under", gesto: ""}
+
+  # u5-5 · Food
+  - {id: "chicken", palabra: "chicken", gesto: ""}
+  - {id: "rice", palabra: "rice", gesto: ""}
+  - {id: "pasta", palabra: "pasta", gesto: ""}
+  - {id: "tomato", palabra: "tomato", gesto: ""}
+  - {id: "strawberry", palabra: "strawberry", gesto: ""}
+  - {id: "breakfast", palabra: "breakfast", gesto: ""}
+  - {id: "lunch", palabra: "lunch", gesto: ""}
+
+  # u6-5 · Animals
+  - {id: "giraffe", palabra: "giraffe", gesto: ""}
+  - {id: "crocodile", palabra: "crocodile", gesto: ""}
+  - {id: "snake", palabra: "snake", gesto: ""}
+  - {id: "zebra", palabra: "zebra", gesto: ""}
+  - {id: "tiger", palabra: "tiger", gesto: ""}
+  - {id: "bear", palabra: "bear", gesto: ""}
+  - {id: "fly", palabra: "fly", gesto: ""}
+  - {id: "swim", palabra: "swim", gesto: ""}
+
+  # u7-5 · Clothes & weather
+  - {id: "shorts", palabra: "shorts", gesto: ""}
+  - {id: "sunglasses", palabra: "sunglasses", gesto: ""}
+  - {id: "boots", palabra: "boots", gesto: ""}
+  - {id: "scarf", palabra: "scarf", gesto: ""}
+  - {id: "spring", palabra: "spring", gesto: ""}
+  - {id: "summer", palabra: "summer", gesto: ""}
+  - {id: "autumn", palabra: "autumn", gesto: ""}
+  - {id: "winter", palabra: "winter", gesto: ""}
+
+  # u8-5 · Let's go!
+  - {id: "school", palabra: "school", gesto: ""}
+  - {id: "shop", palabra: "shop", gesto: ""}
+  - {id: "hospital", palabra: "hospital", gesto: ""}
+  - {id: "swimming-pool", palabra: "swimming pool", gesto: ""}
+  - {id: "taxi", palabra: "taxi", gesto: ""}
+  - {id: "lorry", palabra: "lorry", gesto: ""}

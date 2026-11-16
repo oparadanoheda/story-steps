@@ -1,0 +1,53 @@
+# Banco fijo de juegos. Los mismos formatos en todas las unidades, para que los niños
+# se centren en la lengua y no en las reglas.
+# Principio: respuesta simultánea. Todos responden a la vez; el turno individual es un momento breve.
+# Estado: borrador. Las versiones de gran grupo hay que probarlas y afinarlas en el piloto.
+
+juegos:
+  - id: listen-and-do
+    nombre: Listen and do
+    energia: movimiento
+    desde: 3
+    gran_grupo: El docente da la orden y todos la hacen a la vez.
+
+  - id: stop
+    nombre: Stop!
+    energia: movimiento
+    desde: 3
+    gran_grupo: Todos se mueven; al oír la palabra clave se quedan quietos.
+
+  - id: whats-missing
+    nombre: What's missing?
+    energia: quieto
+    desde: 3
+    gran_grupo: El docente esconde una tarjeta; todos responden a coro o con el gesto.
+
+  - id: guess-the-card
+    nombre: Guess the card
+    energia: quieto
+    desde: 4
+    gran_grupo: El docente da pistas o enseña un trozo; todos responden con el gesto.
+
+  - id: pair-game
+    nombre: Pair game
+    energia: quieto
+    desde: 4
+    gran_grupo: Cartas grandes en el suelo o en la pizarra; el grupo indica cuál girar.
+
+  - id: bingo
+    nombre: Bingo
+    energia: quieto
+    desde: 4
+    gran_grupo: Cartón de cuatro imágenes; todos marcan a la vez.
+
+  - id: telephone
+    nombre: Telephone
+    energia: quieto
+    desde: 5
+    gran_grupo: Dos o tres filas cortas a la vez, no un corro de veinte.
+
+  - id: tablero
+    nombre: Juego de tablero
+    energia: quieto
+    desde: 5
+    gran_grupo: Tablero gigante en el suelo, por equipos.

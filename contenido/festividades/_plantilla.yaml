@@ -1,0 +1,35 @@
+# Plantilla de festividad. Copiar como <fiesta>-<edad>.yaml (p. ej. halloween-3.yaml).
+# Sesiones previstas: Halloween 2 · Christmas 3 · Easter o St Patrick's Day 2 · fin de curso 3.
+# Cada festividad lleva una versión neutra con la misma lengua, para aulas con familias que no la celebran.
+# Mismas convenciones que las unidades: sin rutas de medios y palabras por id del léxico.
+
+fiesta: Halloween
+curso: 3
+estado: borrador            # borrador · revisado · pilotado
+
+version_neutra:
+  titulo: Autumn            # otoño, invierno o primavera, según la fiesta
+  cambios: ""               # qué se sustituye: imágenes, canción, nombre de la sesión
+
+recicla: []                 # palabras del léxico que se reutilizan
+vocabulario: []             # palabras nuevas, por id del léxico. 3 años: 3-4 · 4 años: 4-6 · 5 años: 6-8
+
+chunks:
+  - texto: ""
+    nivel: entienden        # dicen · entienden
+
+criterios: ["1.3"]          # solo 1.3, 2.3, 3.8, 5.2, 5.4
+
+chant:
+  letra: |
+    ...
+  gestos: ""
+
+sesiones:
+  - n: 1
+    arquetipo: encounter-1
+    juego: listen-and-do
+    palabras: []
+    cambios: []
+    con_auxiliar: ""
+    materiales: []

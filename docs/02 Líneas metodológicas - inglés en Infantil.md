@@ -1,6 +1,6 @@
 # Líneas metodológicas: inglés en Infantil
 
-Oct 24, 2026 · @Óscar Parada
+Oct 24, 2026 · @Óscar Parada · Revisado el 12/11/2026 (ver `docs/08 Revisión y propuestas.md`)
 
 ## Conclusión: diez líneas metodológicas
 
@@ -30,7 +30,7 @@ La norma deja la metodología en manos del centro, pero fija un marco claro: exp
 | [Decreto 36/2022](https://www.comunidad.madrid/transparencia/sites/default/files/5-decreto_educ_infantil-bocm.pdf), art. 11 | Experiencias significativas, funcionales y globales, basadas en la experimentación y el juego, desde un apego seguro | Sesiones lúdicas y manipulativas, nunca de ficha |
 | Decreto 36/2022, área III | La lengua extranjera se centra en comprensión y expresión mediante juegos, canciones, saludos y despedidas, poesías, etc., buscando una actitud positiva | Oralidad y actitud como prioridad |
 | Decreto 36/2022, art. 15.4 | Flexibilizar metodologías en lengua extranjera para quien tenga dificultades de comprensión o expresión | Apoyos visuales y gestuales sistemáticos; varias vías de respuesta |
-| [Orden 460/2023](https://ecmadrid.org/es/pdfs-revistas/doc_download/8337-orden-460-2023-de-17-febrero-organizacion-funcionamiento-evaluacion-y-autonomia-pedagogica-infantil), art. 3.5 | Métodos basados en la experiencia, la manipulación de objetos y el juego, en un ambiente de afecto y confianza | Coherencia con el resto del aula de Infantil |
+| [Orden 460/2023](https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/28/BOCM-20230228-30.PDF), art. 3.5 | Métodos basados en la experiencia, la manipulación de objetos y el juego, en un ambiente de afecto y confianza | Coherencia con el resto del aula de Infantil |
 | Orden 460/2023, art. 6 | Unidades de programación con situaciones de aprendizaje y selección de recursos; métodos pedagógicos acordados | El método se integra en la propuesta pedagógica del centro |
 | Orden 460/2023, art. 22 | El centro decide los materiales y, en su caso, los libros de texto; puede diseñar métodos propios | Base legal para un método sin libro |
 | Orden 460/2023, art. 8 | Evaluar la idoneidad de métodos, materiales y colaboración con familias | Revisión anual del método |
@@ -46,7 +46,7 @@ Empezar a los 3 años no garantiza por sí solo más inglés: con pocas horas se
 - **La revisión del British Council llega a lo mismo.** Robinson, Mourão y Kang recogen que "cuanto antes mejor" no tiene respaldo empírico en contextos de aula, pero que empezar pronto sí aporta motivación, actitudes positivas y una base para aprender después ([Robinson et al. 2015](https://www.teachingenglish.org.uk/sites/teacheng/files/pub_English%20learning%20areas%20in%20pre-primary%20classrooms.pdf)).
 - **La Comisión Europea pone el foco en la duración de la exposición** y en evitar una enseñanza formal que presione a los niños ([Comisión Europea 2011](https://education.ec.europa.eu/sites/default/files/document-library-docs/early-language-learning-handbook_en.pdf)).
 
-**Consecuencias para el método:** con 2 h 15 min semanales, el objetivo realista es una comprensión oral sólida, un repertorio de *chunks* útiles y una actitud muy positiva al llegar a Primaria. Para sumar exposición fuera de las tres sesiones, el método añade 5 minutos diarios de audio en el aula, el rincón de inglés y audios para casa.
+**Consecuencias para el método:** con 2 h 15 min semanales, el objetivo realista es una comprensión oral sólida, un repertorio de *chunks* útiles y una actitud muy positiva al llegar a Primaria. Para sumar exposición fuera de las tres sesiones, el método añade cinco minutos diarios de inglés en acción en el aula (el chant con gestos, las canciones de rutina), el rincón de inglés y audios para casa. Son un refuerzo: el núcleo funciona aunque el aula no haga nada entre sesiones.
 
 ## Evidencia por técnica
 
@@ -54,7 +54,7 @@ El dato más útil para el método viene de dos estudios con niños españoles d
 
 | Técnica | Qué dice la evidencia | Cómo usarla en el método |
 | --- | --- | --- |
-| Cuentos | En niños españoles de 3 años, presentar palabras con un cuento dio más vocabulario que con canción; cuento + canción también funcionó bien; canción sola, lo peor ([Albaladejo, Coyle y Roca de Larios 2018](https://www.sciencedirect.com/science/article/abs/pii/S0346251X17302245)) | Un cuento por unidad, repetido en varias sesiones, con gestos, objetos y participación |
+| Cuentos | En niños españoles de 2-3 años (muestra pequeña), presentar palabras con un cuento dio más vocabulario que con canción; cuento + canción también funcionó bien; canción sola, lo peor ([Albaladejo, Coyle y Roca de Larios 2018](https://www.sciencedirect.com/science/article/abs/pii/S0346251X17302245)) | Un cuento por unidad, repetido en varias sesiones, con gestos, objetos y participación |
 | Canciones | En niños españoles de 5 años, tres sesiones con una canción mejoraron la comprensión del vocabulario, pero la mayoría no llegó a producirlo ([Coyle y Gómez Gracia 2014](https://academic.oup.com/eltj/article-abstract/68/3/276/455095)) | Canción ligada al cuento y al juego; no esperar producción solo por cantar |
 | Repetición y formatos | Los juegos y rutinas repetidos dan a los niños un guion predecible; con el tiempo pasan de observar a dirigir el juego (principio de traspaso de Bruner) ([Robinson et al. 2015](https://www.teachingenglish.org.uk/sites/teacheng/files/pub_English%20learning%20areas%20in%20pre-primary%20classrooms.pdf)) | Banco fijo de 6-8 juegos que se reutilizan con cada unidad; los niños hacen de "teacher" |
 | *Chunks* | Los niños reutilizan en el juego libre frases hechas aprendidas en cuentos y juegos, mezcladas con su lengua ([Robinson et al. 2015](https://www.teachingenglish.org.uk/sites/teacheng/files/pub_English%20learning%20areas%20in%20pre-primary%20classrooms.pdf)) | Cada unidad fija 2-3 *chunks* clave (*It's a…*, *I can…*, *Help, please!*) |
@@ -82,7 +82,7 @@ El modelo con más respaldo para estas edades combina dos momentos: actividad gu
 - Participa en el cuento: completa estribillos, dramatiza, decide finales.
 - Crea: versiones nuevas de chants, adivinanzas propias (5 años), manualidades con lengua.
 
-**Condición imprescindible:** coordinación con la tutora. El especialista prepara los materiales; la tutora gestiona el rincón en el juego libre. Como la tutora no tiene que estar en las sesiones de inglés (Decreto 36/2022, art. 17.7), hace falta un canal breve de traspaso: qué unidad, qué materiales, qué *chunks*.
+**Condición imprescindible:** coordinación con la tutora. El especialista prepara los materiales; la tutora gestiona el rincón en el juego libre. Como la tutora no tiene que estar en las sesiones de inglés (Decreto 36/2022, art. 17.7), hace falta un canal breve de traspaso: qué unidad, qué materiales, qué *chunks*. Esta coordinación se acuerda con los tutores antes de empezar y se mide (cuántas aulas abren el rincón); no se da por hecha.
 
 ## Contexto socioeconómico medio-bajo
 
@@ -102,10 +102,10 @@ El nivel socioeconómico pesa en el aprendizaje de lenguas, así que el método 
 
 ## Evaluación por observación
 
-La evaluación es global, continua y formativa, con la observación directa y sistemática como técnica principal y los criterios del Decreto como referente ([Orden 460/2023](https://ecmadrid.org/es/pdfs-revistas/doc_download/8337-orden-460-2023-de-17-febrero-organizacion-funcionamiento-evaluacion-y-autonomia-pedagogica-infantil), art. 17). La Comisión Europea añade que no debe haber evaluación sumativa formal con notas.
+La evaluación es global, continua y formativa, con la observación directa y sistemática como técnica principal y los criterios del Decreto como referente ([Orden 460/2023](https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/28/BOCM-20230228-30.PDF), art. 17). La Comisión Europea añade que no debe haber evaluación sumativa formal con notas.
 
-- **Qué registrar:** los cinco criterios de lengua extranjera (1.3, 2.3, 3.8, 5.2 y 5.4), con una escala sencilla por niño y trimestre.
-- **Cuándo:** la sesión 10 de cada unidad está pensada para observar, pero también cuentan los juegos y el rincón de inglés, donde el estudio del British Council vio el uso más espontáneo.
+- **Qué registrar:** los cinco criterios de lengua extranjera (1.3, 2.3, 3.8, 5.2 y 5.4), cada uno con una conducta observable por edad, y una escala de tres niveles. Se anota por excepción: solo a quien se sale de lo esperado.
+- **Cuándo:** por muestreo, 6 o 7 niños foco por sesión durante las sesiones 8 a 10 de cada unidad; un adulto no puede dirigir la sesión y registrar a 20 niños a la vez. También cuentan los juegos y el rincón de inglés, donde el estudio del British Council vio el uso más espontáneo.
 - **Cómo no sesgar:** observar comprensión (responde a la orden, señala, actúa) y no solo producción, sobre todo en 3 años.
 - **A quién informar:** el tutor comunica a las familias con los informes acordados en la propuesta pedagógica (art. 17.6). El informe final de aprendizaje (anexo III) valora el área III en conjunto con "Conseguido" o "En proceso"; el registro del especialista alimenta esa valoración.
 - **Evaluar también la práctica:** la Orden exige revisar métodos, materiales y colaboración con familias (art. 8). Para la autoevaluación docente sirve el portafolio europeo para educadores de Infantil [PEPELINO](https://www.ecml.at/ECML-Programme/Programme2012-2015/Pepelino/tabid/1833/Default.aspx) del Consejo de Europa.
@@ -115,7 +115,7 @@ La evaluación es global, continua y formativa, con la observación directa y si
 **Normativa**
 
 - [Decreto 36/2022, de 8 de junio, currículo de Educación Infantil (BOCM 9/6/2022)](https://www.comunidad.madrid/transparencia/sites/default/files/5-decreto_educ_infantil-bocm.pdf)
-- [Orden 460/2023, de 17 de febrero, organización, evaluación y autonomía pedagógica en Infantil (BOCM 28/2/2023)](https://ecmadrid.org/es/pdfs-revistas/doc_download/8337-orden-460-2023-de-17-febrero-organizacion-funcionamiento-evaluacion-y-autonomia-pedagogica-infantil)
+- [Orden 460/2023, de 17 de febrero, organización, evaluación y autonomía pedagógica en Infantil (BOCM 28/2/2023)](https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/28/BOCM-20230228-30.PDF)
 - [Instrucciones DG Bilingüismo y Calidad de la Enseñanza, curso 2026-2027](https://documentos.anpemadrid.es/docs/pdf/Instrucciones_centros_bilingues_2026-2027.pdf)
 
 **Investigación y orientaciones**

@@ -1,19 +1,18 @@
 # Recursos abiertos para inglés en Infantil
 
-Oct 24, 2026 · @Óscar Parada
+Oct 24, 2026 · @Óscar Parada · Revisado el 12/11/2026 (ver `docs/08 Revisión y propuestas.md`)
 
 ## Conclusión: qué usar y para qué
 
-La oportunidad más valiosa está en los **álbumes ilustrados con licencia CC BY**: permiten usar sus ilustraciones profesionales con un texto nuestro, simplificado para niños de 3 a 5 años que aprenden inglés, y así producir los 24 cuentos del método sin dibujarlo todo desde cero. Para lo visual del aula, ARASAAC cubre pictogramas, agendas y normas.
+Los 24 cuentos del núcleo son originales: los protagoniza el personaje de cada curso y comparten un único estilo de ilustración, así que no pueden montarse sobre álbumes ajenos. Los **álbumes ilustrados con licencia CC BY** sirven para lo demás: la biblioteca del rincón de inglés, los módulos de proyecto y las festividades, donde sus ilustraciones profesionales se pueden usar con un texto nuestro, simplificado. Para lo visual del aula, ARASAAC cubre pictogramas, agendas y normas.
 
 | Recurso | Para qué lo usaríamos | Licencia | ¿Se puede adaptar y compartir? |
 | --- | --- | --- | --- |
-| [Book Dash](https://bookdash.org/books/) | Base de cuentos: ilustraciones de calidad con archivos fuente editables | CC BY 4.0 | Sí, citando autoría |
+| [Book Dash](https://bookdash.org/books/) | Cuentos para el rincón, los módulos y las festividades: ilustraciones de calidad con archivos fuente editables | CC BY 4.0 | Sí, citando autoría |
 | [StoryWeaver](https://storyweaver.org.in/) | Gran banco de cuentos e ilustraciones; herramienta para crear y traducir; lecturas con audio | CC BY 4.0 | Sí, citando autoría |
 | [Global Storybooks](https://globalstorybooks.net/) | 40 cuentos con audio en inglés y en muchas lenguas familiares | CC BY 4.0 | Sí; útil con familias de otras lenguas |
 | [African Storybook](https://www.africanstorybook.org/) | Miles de cuentos breves por niveles | CC BY 4.0 | Sí |
 | [ARASAAC](https://arasaac.org/) | Pictogramas para agenda visual, normas, rutinas y apoyos para NEE | CC BY-NC-SA | Sí, sin uso comercial y con la misma licencia |
-| [OpenMoji](https://openmoji.org/) | Iconos y emociones con estilo uniforme | CC BY-SA 4.0 | Sí, con la misma licencia |
 | [Openverse](https://openverse.org/) | Buscador de imágenes y audio con licencia abierta | Según el recurso | Revisar cada uno |
 | [Freesound](https://freesound.org/) | Efectos de sonido para cuentos y juegos | Según el sonido (filtrar CC0) | CC0 sin condiciones |
 | [Project Gutenberg](https://m.gutenberg.org/ebooks/39784) y [LibriVox](https://librivox.org/the-real-mother-goose-by-anonymous) | Rimas tradicionales de dominio público, con partituras y grabaciones | Dominio público | Sí |
@@ -41,8 +40,7 @@ Estas plataformas están pensadas para niños que leen en su lengua, no para alu
 | Recurso | Qué ofrece | Licencia | Uso en el método |
 | --- | --- | --- | --- |
 | [ARASAAC](https://arasaac.org/) (Gobierno de Aragón) | Miles de pictogramas en color y en blanco y negro, en más de 20 idiomas, además de fotografías, vídeos en lengua de signos y herramientas | CC BY-NC-SA | Agenda visual de la sesión, normas del aula, rutinas, apoyos para TEA y TEL. La obra derivada debe compartirse con la misma licencia y sin uso comercial |
-| [OpenMoji](https://openmoji.org/) (HfG Schwäbisch Gmünd) | Más de 4.000 emojis e iconos con estilo uniforme, en SVG y PNG | CC BY-SA 4.0 | Tarjetas de emociones, tiempo atmosférico, comida y animales para juegos y rutinas |
-| [Openverse](https://openverse.org/) (WordPress) | Buscador de más de 700 millones de imágenes y audios con licencia abierta o de dominio público, de fuentes como Wikimedia Commons, Flickr o el Smithsonian | Según el recurso | Fotos reales para flashcards (animales, comida, transportes); genera el texto de atribución |
+| [Openverse](https://openverse.org/) (WordPress) | Buscador de más de 700 millones de imágenes y audios con licencia abierta o de dominio público, de fuentes como Wikimedia Commons, Flickr o el Smithsonian | Según el recurso | Fotos reales para módulos de proyecto, solo con licencia CC0, dominio público o CC BY; genera el texto de atribución. Las flashcards del núcleo son ilustradas |
 | [Freesound](https://freesound.org/) (Universitat Pompeu Fabra) | Más de 700.000 sonidos | Según el sonido: CC0, CC BY o CC BY-NC | Sonidos de animales, tiempo y transportes para cuentos y juegos de escucha; filtrar por CC0 |
 
 **Atribución de ARASAAC** (fórmula recomendada): "Autor pictogramas: Sergio Palao. Procedencia: ARASAAC (https://arasaac.org). Licencia: CC BY-NC-SA. Propiedad: Gobierno de Aragón".
@@ -86,8 +84,10 @@ Para formar al equipo y fundamentar el método.
 
 **Precauciones prácticas:**
 
-- **No mezclar en una misma lámina** pictogramas de ARASAAC (CC BY-NC-SA) con iconos de OpenMoji (CC BY-SA): cada licencia exige que la obra derivada lleve la suya. Mejor usar uno u otro en cada material.
-- **Licencia del propio método:** si incorporamos ARASAAC, los materiales derivados irán con CC BY-NC-SA. Conviene decidirlo al principio y ponerla en todos los archivos.
+- **Qué entra en el método:** solo recursos de dominio público, CC0 o CC BY, más los pictogramas de ARASAAC en su propio kit. Los recursos CC BY-SA (OpenMoji y casi todo Wikimedia Commons) quedan fuera: una obra que los adapta debe ser CC BY-SA, y eso es incompatible con la licencia no comercial propuesta para el método y con ARASAAC.
+- **Alcance de la licencia de ARASAAC:** los materiales que incorporan pictogramas (agenda visual, normas) llevan CC BY-NC-SA. Eso no obliga a licenciar así todo el método: la licencia del resto se decide por sus propios motivos.
+- **Licencia del propio método:** hay que decidirla antes de la primera publicación, junto con una licencia de software para el código. Los autores, y quien grabe voces, la aceptan por escrito.
+- **Contenido generado con IA:** según la interpretación mayoritaria, lo generado sin autoría humana no tiene derechos de autor. La licencia cubre los textos, la selección y el conjunto, no cada imagen suelta. En créditos se indica qué se ha generado con IA.
 - **Registro de atribuciones:** una hoja con recurso, autor, URL y licencia para cada cuento, imagen o sonido utilizado.
 - **Lo que no se puede usar:** vídeos y canciones de canales comerciales, personajes de dibujos o marcas, imágenes de bancos "gratuitos" con licencias propias que prohíben redistribuir, y álbumes comerciales escaneados.
 - **Plataformas gratuitas con derechos** (LearnEnglish Kids, *Tell it Again!*): se pueden usar en clase o para formarse, pero no copiar ni reeditar su contenido.
@@ -100,7 +100,6 @@ Para formar al equipo y fundamentar el método.
 - [Royal Society of Canada: Global Storybooks](https://rsc-src.ca/en/node/4254)
 - [Digital Public Goods Alliance: African Storybook](https://digitalpublicgoods.net/r/african-storybook)
 - [ARASAAC: condiciones de uso](https://aulaabierta.arasaac.org/en/terms-of-use)
-- [OpenMoji: preguntas frecuentes y licencia](https://openmoji.org/faq)
 - [Openverse: acerca de](https://webcf.waybackmachine.org/web/20231210110130/https://openverse.org/about)
 - [Freesound: licencias de los sonidos](https://freesound.org/forum/legal-help-and-attribution-questions/38292)
 - [Project Gutenberg: *Mother Goose's Nursery Rhymes*](https://m.gutenberg.org/ebooks/39784)

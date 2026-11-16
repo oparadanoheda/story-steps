@@ -1,25 +1,25 @@
 # Métodos de referencia: qué funciona en inglés para Infantil
 
-Oct 24, 2026 · @Óscar Parada
+Oct 24, 2026 · @Óscar Parada · Revisado el 12/11/2026 (ver `docs/08 Revisión y propuestas.md`)
 
 ## Conclusión: doce estándares para el proyecto
 
 Los métodos sin libro que más éxito tienen comparten una fórmula: **personajes e historias del mundo del niño, mucha repetición con emoción, exposición diaria fuera de clase, oralidad antes que lectura y familias implicadas sin necesidad de saber inglés**. Ninguno tiene una evaluación independiente publicada del programa completo, pero sus rasgos comunes sí coinciden con la investigación.
 
-Adaptados a un colegio público con 3 sesiones de 45 minutos y unos 25 alumnos por aula:
+Adaptados a un colegio público con 3 sesiones de 45 minutos y un máximo de 20 alumnos por aula:
 
 1. **Un personaje guía por curso** (marioneta) que vive historias parecidas a las de los niños y crece con ellos.
 2. **Cuentos sobre la vida cotidiana**: ir al cole, tener miedo, ensuciarse, un diente que se cae. El contexto conocido aporta el significado.
 3. **Repetición con emoción y variación**: el mismo cuento se cuenta, se dramatiza, se canta y se juega.
 4. **Gesto icónico fijo** para cada palabra o frase clave, igual en todas las aulas.
 5. **Ritual de entrada y salida** al "mundo en inglés" (una señal, una canción, un objeto).
-6. **Exposición diaria corta**: un audio de 5-10 minutos por unidad que el tutor pone en el aula y que también va a casa.
+6. **Exposición diaria corta**: cinco minutos de inglés en acción en el aula (chant con gestos, canciones de rutina), con las mismas pistas disponibles para casa.
 7. **Oralidad total**: nada de lectura ni escritura en inglés en Infantil.
 8. **Refuerzo positivo y cero ansiedad**: no se corrige en público ni se exige hablar.
 9. **Familias como socias**: materiales que funcionan sin saber inglés e información breve y periódica sobre qué se hace.
-10. **Materiales propios y originales**: textos, canciones y audios creados para el método; ilustraciones propias o reutilizadas con licencia abierta CC BY (ver Recursos abiertos para inglés en Infantil).
+10. **Materiales propios y originales**: textos, canciones, audios e ilustraciones creados para el método, con un único estilo. Los recursos con licencia abierta CC BY completan el rincón, los módulos y las festividades (ver Recursos abiertos para inglés en Infantil).
 11. **Guía docente con guiones y vídeos modelo**, para que cualquier especialista lo aplique con la misma calidad.
-12. **Compensar el grupo grande**: subgrupos, rincón de inglés y rotaciones para multiplicar las oportunidades de hablar.
+12. **Compensar el grupo grande**: juegos de respuesta simultánea, en los que todos responden a la vez, y rincón de inglés. Los subgrupos y las rotaciones solo son posibles con un segundo adulto.
 
 ## Comparativa de métodos
 
@@ -48,7 +48,7 @@ La revisión más completa disponible, 74 estudios de 25 países ([Nikolov y Mih
 | Afecto y cero ansiedad | Helen Doron, Hocus & Lotus | La insistencia en memorizar o en una pronunciación nativa generó ansiedad; programas más intensivos y con "solo inglés" se asociaron a niños más ansiosos |
 | Familias socias | Todos | Los padres influyen de forma decisiva; el nivel socioeconómico pesa porque condiciona recursos e implicación |
 | Docente formado en Infantil y en inglés | Todos | Hacen falta competencias de Infantil, no solo de idioma; un estilo dirigista con mucha repetición mecánica no se considera buena práctica |
-| Grupos pequeños | Kids&Us, Helen Doron | No replicable en un colegio público; se compensa con subgrupos y rincón |
+| Grupos pequeños | Kids&Us, Helen Doron | No replicable en un colegio público; se compensa con respuesta simultánea y rincón |
 
 Todo el respaldo de esta tabla procede de la revisión de Nikolov y Mihaljević Djigunović, salvo indicación en la comparativa.
 
@@ -67,8 +67,8 @@ Todo el respaldo de esta tabla procede de la revisión de Nikolov y Mihaljević 
 
 | En academias | En nuestro colegio |
 | --- | --- |
-| Grupos de 8-10 | Subgrupos dentro de la sesión, rincón de inglés y, si hay apoyo, desdobles |
-| Audio diario en casa | 5 min diarios en el aula puestos por el tutor (por ejemplo, al volver del recreo) y el mismo audio por QR para casa |
+| Grupos de 8-10 | Juegos de respuesta simultánea en gran grupo, rincón de inglés y, si hay segundo adulto, subgrupos |
+| Audio diario en casa | Cinco minutos diarios de inglés en acción en el aula (chant, canciones de rutina) y las mismas pistas por QR para casa |
 | Familia que paga y se implica | Comunicación breve y visual, sin deberes obligatorios; reuniones o vídeos cortos al inicio de cada trimestre |
 | Docentes formados en el método | Guía con guiones de sesión, gestos clave en vídeo y sesiones de formación interna |
 | Materiales comerciales cerrados | Banco propio: cuentos, canciones, flashcards y audios originales, reutilizables cada curso |

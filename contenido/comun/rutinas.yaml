@@ -1,0 +1,43 @@
+# Rutinas fijas del método: lo que es igual en todas las aulas y en todas las unidades.
+# Estado: borrador. El calendario de rutinas es una propuesta pendiente de validar con el equipo (docs/06).
+
+normas:                       # con pictograma de ARASAAC y gesto; se practican como un juego
+  - {id: look, texto: "Look", gesto: ""}
+  - {id: listen, texto: "Listen", gesto: ""}
+  - {id: kind-hands, texto: "Kind hands", gesto: ""}
+
+senal_de_atencion:            # propuesta de docs/04; pendiente de confirmar
+  docente: "One, two, three, eyes on me!"
+  ninos: "One, two, eyes on you!"
+
+hello_routine:                # núcleo fijo más UN elemento que rota en cada sesión
+  nucleo: [llega la marioneta, canción de saludo, agenda visual]
+  rotan: [quien-ha-venido, tiempo, emociones]
+
+canciones:                    # letra original sobre melodía tradicional de dominio público; voz humana
+  entrada: null               # pendientes de escribir
+  salida: null
+  recoger: null
+  fila: null
+
+# Qué elemento de rutina entra en cada unidad. Lo que entra, se queda.
+calendario:
+  "3":
+    u1: [canción de saludo, quién ha venido]
+    u2: ["emociones: happy, sad"]
+    u3: ["tiempo: sunny, rainy"]
+    u4: [contar hasta 5]
+  "4":
+    u1: [saludo, "What's your name?", números 1-5]
+    u2: ["emociones: happy, sad, angry, tired"]
+    u3: ["tiempo: sunny, rainy", números hasta 10]
+    u7: ["tiempo: windy, cloudy"]
+  "5":
+    u1: [saludo, "How are you?", días de la semana]
+    u2: ["emociones: scared, surprised"]
+    u3: [tiempo completo, números hasta 20]
+    u7: [estaciones]
+
+formulas_de_aula:             # desde 4 años, en cualquier unidad; no cuentan como estructura
+  - "Can I have…, please?"
+  - "Thank you"
