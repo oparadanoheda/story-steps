@@ -195,7 +195,7 @@ El docente llega a cualquier sesión en tres pasos (curso, unidad, sesión); las
 **Pila propuesta:**
 
 - **Generador de sitio estático** (Astro o Eleventy, pendiente) publicado con GitHub Actions en GitHub Pages.
-- **Validador independiente del generador:** un script que comprueba las reglas del método en cada cambio y antes de publicar. Así las reglas sobreviven a un cambio de generador.
+- **Validador independiente del generador:** `herramientas/validar.mjs` comprueba las reglas del método en cada cambio y antes de publicar (`npm run validar`). Así las reglas sobreviven a un cambio de generador. Tiene sus propias pruebas (`npm test`).
 - **Contenido en archivos YAML,** editables sin saber programar.
 - **Motores de juego en JavaScript sin dependencias,** que leen los datos de la unidad.
 - **Hojas de estilo de impresión** y PDF generados para flashcards, cuentos, fichas y cartones de bingo.
@@ -229,8 +229,8 @@ vocabulario: [hello, goodbye, sit-down, stand-up, listen, quiet]   # ids del lé
 exposicion: [bag, coat]           # salen en el cuento; no cuentan ni llevan flashcard
 recicla: []
 chunks:
-  - {texto: "Hello!", nivel: dicen}
   - {texto: "Sit down, please.", nivel: entienden}
+  - {texto: "Hello!", nivel: formula}   # fórmula de rutina; no cuenta como estructura
 criterios: ["1.3", "2.3", "5.2"]
 cuento:
   titulo: ...
@@ -270,6 +270,7 @@ sesiones:
 /medios/         imágenes y audios finales y optimizados
 /juegos/         motores de los interactivos
 /src/            plantillas de páginas y vista de impresión
+/herramientas/   validador de las reglas del método y sus pruebas
 /creditos/       registro de atribuciones y licencias
 /docs/           documentos del método (versión canónica)
 /pruebas/        pruebas de producción; no se publican

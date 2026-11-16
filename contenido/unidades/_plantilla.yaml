@@ -18,10 +18,10 @@ exposicion: []              # salen en el cuento o la rutina; no cuentan ni llev
 recicla: []                 # palabras ya nucleares en unidades o cursos anteriores que esta unidad necesita
 
 chunks:                     # 3 años: una para entender · 4 y 5 años: una para decir y una para entender
-  - texto: "Hello!"
-    nivel: dicen            # dicen · entienden
   - texto: "Sit down, please."
-    nivel: entienden
+    nivel: entienden        # dicen · entienden · formula
+  - texto: "Hello!"
+    nivel: formula          # fórmula de rutina que dicen; no cuenta como estructura
 
 criterios: ["1.3", "2.3", "5.2"]   # solo 1.3, 2.3, 3.8, 5.2, 5.4
 
@@ -45,7 +45,9 @@ sesiones:                   # 10 sesiones: 1-3 Encounter · 4-7 Engage · 8-10 E
     palabras: [hello, goodbye]
     dice:                   # frases del docente, en inglés
       - "Hello! Look, this is Pip."
-    cambios: []             # solo lo que se sale del arquetipo, bloque a bloque
+    cambios: []             # solo lo que se sale del arquetipo. Cada cambio indica la posición del bloque:
+                            #   - {bloque: 4, minutos: 6, descripcion: "..."}
+                            # Campos: minutos, energia, descripcion, recortable, adultos, opcional
     con_auxiliar: ""        # qué cambia si hay auxiliar (opcional; nada imprescindible depende de él)
     materiales: []          # todo cabe en una bolsa y se prepara en menos de un minuto
 

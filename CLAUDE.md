@@ -24,6 +24,14 @@ Cada cosa se escribe **una vez** en `contenido/` (YAML) y el código genera a pa
 - **Rutas de medios por convención:** el YAML no lleva rutas. Léxico en `medios/lexico/<id>.webp` y `.mp3`; cuento y chant en `medios/<unidad>/` (`medios/u1-3/cuento-01.webp`, `chant.mp3`); personajes en `medios/personajes/`.
 - **Los identificadores no cambian** una vez publicados: aparecen en las direcciones de las páginas de familias y en los QR impresos.
 
+## Validación
+
+Las reglas de este archivo están programadas en `herramientas/validar.mjs`, que no depende del generador de la web.
+
+- Después de tocar cualquier archivo de `contenido/`, `medios/` o `creditos/`, ejecuta `npm run validar`. Con errores no se da nada por bueno.
+- Un `estado: borrador` solo da avisos por lo que falta; `revisado` y `pilotado` exigen la unidad completa, con sus medios.
+- Si cambia una regla del método, se cambia en `docs/06`, en este archivo y en el validador, con su prueba en `herramientas/validar.test.mjs` (`npm test`).
+
 ## Reglas del método (no negociables)
 
 **Sesión de 45 min de horario, siempre la misma secuencia:**
@@ -60,6 +68,7 @@ Cada cosa se escribe **una vez** en `contenido/` (YAML) y el código genera a pa
 | Palabras nuevas en un módulo | 3-4 | 4-6 | 6-8 |
 
 - `vocabulario` es lo nuclear y cumple el rango. `exposicion` son palabras que salen en el cuento o la rutina: no cuentan ni llevan flashcard.
+- Cada chunk lleva su `nivel`: `dicen`, `entienden` o `formula`. Las fórmulas de rutina (*Hello!*, *Thank you*) van como `formula` y no cuentan como estructura.
 - Una palabra es nuclear **una sola vez** en todo el ciclo; después va en `recicla`.
 - Las unidades de 4 y 5 años declaran en `recicla` las palabras previas que necesitan.
 - Primero entienden, después dicen: nunca se exige producción, pero se provoca y se registra.

@@ -14,9 +14,26 @@ Método de inglés sin libro para Educación Infantil (3, 4 y 5 años). Lo forma
 | `medios/` | Imágenes (WebP) y audios (MP3) finales y optimizados |
 | `juegos/` | Motores de los interactivos para la pizarra digital |
 | `src/` | Plantillas de páginas y vista de impresión (pendiente del generador) |
+| `herramientas/` | Validador de las reglas del método y sus pruebas |
 | `creditos/` | Registro de atribuciones y licencias |
 | `pruebas/` | Pruebas de producción de voz e imagen; no se publican |
 | `CLAUDE.md` | Reglas del método y del proyecto para Claude Code |
+
+## Comprobar las reglas del método
+
+Hace falta [Node.js](https://nodejs.org) 20 o posterior. La primera vez:
+
+```bash
+npm install
+```
+
+Para comprobar que el contenido cumple las reglas (minutos por sesión, tope por edad, rango de vocabulario, criterios, juegos por edad, licencias, inglés británico):
+
+```bash
+npm run validar
+```
+
+Los errores impiden publicar; los avisos son normales en un borrador. Las pruebas del propio validador se ejecutan con `npm test`.
 
 ## Documentos de diseño
 

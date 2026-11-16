@@ -20,7 +20,8 @@
 Lo que **no** se ha hecho, porque no era un cambio de documento o porque es una decisión pendiente:
 
 - Las decisiones de la sección 8 que siguen abiertas: generador, licencia, dirección pública, personajes de 4 y 5 años. La lista al día está en `docs/07`.
-- El validador automático, los 30 arquetipos de sesión y los gestos del léxico: son trabajo de las próximas semanas (sección 11).
+- Los 30 arquetipos de sesión y los gestos del léxico: son trabajo de las próximas semanas (sección 11).
+- El validador automático se escribió el 16/11/2026 (`herramientas/validar.mjs`, con 30 pruebas). Al estrenarlo detectó un fallo en la plantilla de unidad: *Hello!* figuraba como estructura para decir en 3 años. Se añadió el nivel `formula` para las fórmulas de rutina.
 - El calendario de rutinas y los indicadores de evaluación de `docs/06` son propuestas pendientes de validar con el equipo.
 
 Un ajuste hecho al aplicar: al omitir el bloque recortable quedan juntos dos bloques de la misma energía. Se añadió la regla de separarlos con una pausa de un minuto de la energía contraria.
